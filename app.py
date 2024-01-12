@@ -1,8 +1,5 @@
 import streamlit as st
 import time
-
-pip install transformers
-
 import transformers
 
 @st.cache_resource
