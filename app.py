@@ -1,6 +1,10 @@
 import streamlit as st
 import time
 
+pip install transformers
+
+import transformers
+
 @st.cache_resource
 def load_models():
     # English to Chinese
